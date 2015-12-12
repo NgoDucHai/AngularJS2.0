@@ -1,0 +1,1 @@
+{"version":3,"file":"nameService.js","sourceRoot":"","sources":["nameService.ts"],"names":["NameService","NameService.constructor","NameService.getName"],"mappings":"AAAA;IACCA;QACCC,IAAIA,CAACA,IAAIA,GAAGA,aAAaA,CAACA;IAC3BA,CAACA;IAEDD,6BAAOA,GAAPA;QACCE,MAAMA,CAACA,IAAIA,CAACA,IAAIA,CAACA;IAClBA,CAACA;IACFF,kBAACA;AAADA,CAACA,AARD,IAQC;AARY,mBAAW,cAQvB,CAAA"}
